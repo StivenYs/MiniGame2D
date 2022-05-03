@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c3291fb4fb9c6694885d4c48c8885f36
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Enemy: {instanceID: 0}
+  - Anima: {instanceID: 0}
+  - FireBall: {instanceID: 0}
+  - Money: {fileID: 4975048485004889671, guid: ce4c22921c1161b4f9ac5e8076a69ea3, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

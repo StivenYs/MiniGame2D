@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Obstacles
+  - collision
+  - Teleport
+  - FireBall
+  - RangeAttack
+  - Distance
+  - Teleport1
+  - Teleport2
+  - TeleportD1
+  - LevelScene
+  - Item
+  - Chest
+  - Money
+  - RadiusLever
+  - Zona
+  - Door
+  - Crono
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Enemy
+  - Terreno
+  - Game
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 4120152637
+    locked: 0
+  - name: Obtacles
+    uniqueID: 2565819967
+    locked: 0
